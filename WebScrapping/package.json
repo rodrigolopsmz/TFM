@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "name": "webscrapping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "forever": "^4.0.3",
+    "mongodb": "^4.6.0",
+    "mongoose": "^6.4.4",
+    "puppeteer": "^14.1.1"
+  }
+}
